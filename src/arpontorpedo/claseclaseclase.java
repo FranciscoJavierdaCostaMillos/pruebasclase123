@@ -10,5 +10,5 @@ package arpontorpedo;
  * @author fdacostamillos
  */
 public class claseclaseclase {
-    
+    public int casa;
 }
