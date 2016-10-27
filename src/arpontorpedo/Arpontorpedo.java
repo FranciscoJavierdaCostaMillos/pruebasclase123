@@ -6,7 +6,7 @@ public class Arpontorpedo {
 
 
     public static void main(String[] args) {
-        
+        int cosa1;
     }
     
 }
